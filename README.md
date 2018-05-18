@@ -1,3 +1,4 @@
+# Alessandro Nesti
 Welcome to my GitHub space! This is a small sample of some of my projects revolving around human perception, sensory information processing, and data analysis.
 It is also a fun place for me where to practice and improve my analytical and programming skills, and have fun while doing so.
 
