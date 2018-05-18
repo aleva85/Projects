@@ -4,4 +4,4 @@ Just-about-right (JAR) scales measure the appropriateness of the level of a spec
 
 Penalty analysis links attributes and overall liking/acceptability,to determine if those respondents who found the product not satisfactory on an attribute do rate it overall lower. It can therefore quantify the impact that improving an attribute can have on overall liking, and proceed with recommandations for changes.
 
-<img align="left" width="70%" height="70%" src="results.png"><br/>
+<img align="left" width="70%" height="70%" src="result.png"><br/>
