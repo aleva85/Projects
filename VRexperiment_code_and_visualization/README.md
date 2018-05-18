@@ -7,7 +7,7 @@ In this project we intend to recreate the richness and complexity of spontaneous
 mThe stimulus selection algorithm will rely on Bayesian Optimization, sample-efficient and noise-tolerant global optimization algorithm. in the current version of the experiment, we employ the python library scikit-optimize (https://github.com/scikit-optimize/scikit-optimize).
 The visual component of the virtual experience is recreated using a 3d body scanner (10 kinects) and a customized software that renders virtual environments on head-mounted displays.
 
-
+\n
 
 Artistic representation of an OBE
 
