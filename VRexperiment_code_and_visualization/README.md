@@ -1,5 +1,8 @@
 # Virtual Out-of-Body experiences
-This is an interesting and ambitious project that aims at studying Out-of-body experiences (OBEs). 
+
+Unlike most of the projects in this portfolio, this one does not present an analysis but rather the implementation of an experiment in VR. this is an ongoing project I am working on at EPFL.
+
+Thie project is an interesting and ambitious attempt at studying Out-of-body experiences (OBEs). 
 OBEs are rich and complex multisensory experiences consisting in the feeling of perceiving the world from a location outside one's physical body. They are commonly reported by neurological patients inclined to sensory hallucinations.
 We (neuroscientists) believe that studying the perceptual mechanisms underlying OBEs can help us understanding how our brain internally represents our physical body, and how this contributes to making us aware of our actions and experiences.
 
