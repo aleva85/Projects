@@ -6,6 +6,5 @@ Penalty analysis links attributes and overall liking/acceptability,to determine 
 
 ---
 Click on the nootbook file "JAR_analysis.ipynb" to see the step-by-step analysis, with more plots, tables and the code. For this project, I followed the analysis procedure described in chapter 5 of the book "Novel techniques in sensory characterization and consumer profiling".
----
 
 <img align="left" width="70%" height="70%" src="result.png"><br/>
