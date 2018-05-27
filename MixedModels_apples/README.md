@@ -7,7 +7,7 @@ Mixed models add more structure to the error term by modelling effects that are 
 An intuitive introduction to mixed-effects model can be found at http://www.bodowinter.com/tutorial/bw_LME_tutorial2.pdf
 
 ---
-Click on the nootbook file "JAR_analysis.ipynb" to see the step-by-step analysis, with more plots, tables and the code. 
+Click on the nootbook file "LME_analysis.ipynb" to see the step-by-step analysis, with more plots, tables and the code. 
 Data for this project were downloaded from http://www.growthmodel.org/mixedmodels/mixedmodels.htm
 
 <img align="left" width="70%" height="70%" src="result.png"><br/>
