@@ -1,4 +1,4 @@
-# Consumer profiling using k-means clustering
+# Linear models with mixed effects
 
 Linear models are widely employed for hypothesis testing due to their ability to simultaneously model the influence of different factors on the dependent variable under investigation. Linear models describes the process that generated the measurments of the dependent variable as if it were composed by a stochastic term (error) and by an effect of the considered factors. Hence, linear models essentially divide the world into things that we somehow understand or that are somehow systematic (the fixed effects), and things that we cannot control for or that we don’t understand (error). 
 
