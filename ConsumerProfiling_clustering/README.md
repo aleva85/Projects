@@ -1,4 +1,4 @@
-# Consumer profiling using k-means clustering
+# A/B testing
 
 Today I wanted to tackle the problem of profile users, i.e., dividing a group of users into different categories based on, for instance, their product or service preferences. One way to do this is by identifying groups (or clusters) in a way that users in the same group are more similar to users in other groups. 
 
