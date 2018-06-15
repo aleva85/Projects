@@ -8,5 +8,5 @@ Here, I briefly show an implementation of a traditional A/B testing analysis, an
 Click on "notebook.ipynb" to see the step-by-step analysis with explanations and code.
 Data for this project, as well as many ideas for the analysis, were provided by the online course Bayesian machine learning in python (https://www.udemy.com/bayesian-machine-learning-in-python-ab-testing/)
 
-<img align="left" width="70%" height="70%" src="result.png"><br/>
+<img align="left" width="100%" height="100%" src="result.png"><br/>
 
