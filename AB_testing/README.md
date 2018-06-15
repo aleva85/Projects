@@ -1,4 +1,4 @@
-# Consumer profiling using k-means clustering
+# A/B testing
 
 A/B testing is an experimental approach to comparing multiple versions of a product, such as a web-page or a new type of pet-food. This allows data-driven decisions on the development of the product based on the measure of interest (eg, volume of sales).
 
