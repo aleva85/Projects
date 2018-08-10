@@ -12,7 +12,7 @@ Click on the nootbook file "analysis.ipynb" to see the step-by-step analysis, wi
 
 For this project, I followed the analysis procedure described in chapter 2 of the book "Hands-on machine learning with scikit-learn and tensorflow".
 
-<img align="left" width="70%" height="70%" src="map.png"><br/>
+<img align="left" width="100%" height="100%" src="map.png"><br/>
 
 <br/>
 
