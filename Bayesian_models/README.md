@@ -13,5 +13,5 @@ This notebook is inspired by the tutorial from https://github.com/rasmusab/bayes
 Click on "bayesian_inference.ipynb" to see the step-by-step analysis with explanations and code.
 This notebook is inspired by the tutorial from https://github.com/rasmusab/bayesianprobabilitiesworkshop/blob/master/Exercise%201.ipynb
 
-<img align="left" width="100%" height="100%" src="result.png"><br/>
+<img align="left" width="60%" height="60%" src="result.png"><br/>
 
